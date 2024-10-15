@@ -6,7 +6,7 @@ Open the downloaded YOLOv7 repository in VS Code (or any preferred IDE).
 Add Custom Python Files:
 
 Paste the following files into the YOLOv7 folder:
-flaskaap.py
+flaskapp.py
 flaskaap1.py
 flaskaap2.py
 flaskaap3.py
